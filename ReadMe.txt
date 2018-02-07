@@ -1,4 +1,3 @@
-Steps:
 1. Configure project with maven.
 2. input is hardcoded in class and output is generated based on that.
 
